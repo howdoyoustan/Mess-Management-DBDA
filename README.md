@@ -8,9 +8,9 @@ Diners can easily cancel their orders if needed.
 We're using smart techniques to handle all the meal data, keeping everything organized and allowing for easy updates whenever necessary.
 
 # 💻 Technologies Used
-Python 🐍: We chose Python for its simplicity, versatility, and powerful libraries.
-SQLAlchemy 📊: This tool helps us interact with the database smoothly, making it easy to manage all the data.
-Database Management System 🗄️: We use a relational database (like SQLite, MySQL, or PostgreSQL) to store info about users, meal orders, inventory, and more.
+Python 🐍: We chose Python for its simplicity, versatility, and powerful libraries. <p>
+SQLAlchemy 📊: This tool helps us interact with the database smoothly, making it easy to manage all the data. <p>
+Database Management System 🗄️: We use a relational database (like SQLite, MySQL, or PostgreSQL) to store info about users, meal orders, inventory, and more.<p>
 Web Development 🌐: For web-based systems, we use HTML, CSS, JavaScript, and frameworks like Flask to create a user-friendly interface and strong backend functionality.
 
 # 🚀 Steps Used
