@@ -1,4 +1,4 @@
-🍽️ Mess-Management System
+# 🍽️ Mess-Management System
 📋 What's Needed
 Keeping track of everything in a busy canteen can be tough. That's why we've created an easy solution using Python and some clever tricks to help out. Our goal is to make life easier for both the canteen staff and the diners. We want everyone to use our system without any hassle and always know what's happening with their meals.
 
@@ -7,67 +7,37 @@ Canteen staff can see how many meals have been served in real-time.
 Diners can easily cancel their orders if needed.
 We're using smart techniques to handle all the meal data, keeping everything organized and allowing for easy updates whenever necessary.
 
-💻 Technologies Used
+# 💻 Technologies Used
 Python 🐍: We chose Python for its simplicity, versatility, and powerful libraries.
 SQLAlchemy 📊: This tool helps us interact with the database smoothly, making it easy to manage all the data.
 Database Management System 🗄️: We use a relational database (like SQLite, MySQL, or PostgreSQL) to store info about users, meal orders, inventory, and more.
 Web Development 🌐: For web-based systems, we use HTML, CSS, JavaScript, and frameworks like Flask to create a user-friendly interface and strong backend functionality.
 
-📋 Contributors 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Contributors</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 20px;
-        }
-        .contributor {
-            display: flex;
-            align-items: center;
-            background-color: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            margin: 10px 0;
-            padding: 10px 20px;
-            width: 80%;
-            max-width: 600px;
-        }
-        .contributor img {
-            border-radius: 50%;
-            margin-right: 15px;
-            width: 50px;
-            height: 50px;
-        }
-        .contributor h3 {
-            margin: 0;
-            font-size: 18px;
-        }
-    </style>
-</head>
-<body>
-    <h1>GitHub Contributors</h1>
+# 🚀 Steps Used
+📝 Requirement Analysis:
+Understand the system's needs and features, including user management, meal ordering, inventory management, and reporting.
 
-    <div class="contributor">
-        <img src="https://i.ibb.co/rt31qcc/GOPR1090.jpg" alt="Username1">
-        <h3>Username1</h3>
-    </div>
-    <div class="contributor">
-        <img src="https://github.com/username2.png" alt="Username2">
-        <h3>Username2</h3>
-    </div>
-    <div class="contributor">
-        <img src="https://github.com/username3.png" alt="Username3">
-        <h3>Username3</h3>
-    </div>
-    <!-- Add more contributors as needed -->
-    
-</body>
-</html>
+📊 Database Design:
+Create the database structure to represent users, meals, and cancellations.
+Use SQL Alchemy to define the database models and relationships.
+
+🔧 Backend Development:
+Develop the backend logic and functionality using Python, Flask, and SQL Alchemy.
+Implement user authentication, CRUD (Create, Read, Update, Delete) operations, and business logic for meal cancellations and inventory management.
+
+🎨 Frontend Development:
+Design and develop the user interface with HTML and CSS.
+Integrate frontend components with the backend to enable user interaction and data visualization.
+
+✅ Testing and Validation:
+Conduct unit testing, integration testing, and user acceptance testing.
+Ensure the system works as expected, meets user requirements, and handles edge cases effectively.
+
+# 📋 Contributors 
+1. Chetan Karkade
+2. Devashish Bhangale
+3. Dheemanth Dev Nadimpalli
+4. Diksha Bhusare
+5. Divy Vishwakarma
+6. Eleen Shah
+7. Ganesh Shiv Shankar Sanap
